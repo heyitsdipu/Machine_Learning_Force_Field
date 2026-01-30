@@ -1,0 +1,5 @@
+source leaprc.protein.ff14SBonlysc 
+dialanine = sequence {ACE ALA NME} 
+set default PBradii mbondi3
+saveamberparm dialanine dialanine.top dialanine.crd 
+quit
