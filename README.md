@@ -1,4 +1,4 @@
-# Machine Learning-based Force Fields (MLIP)
+# Machine Learning-based Force Fields (MLFF)
 
 This project is a work-in-progress, notebook-first implementation of a classic workflow for building a **machine-learning force field / potential energy surface** for a small molecular system: **alanine dipeptide in implicit solvent**.
 
