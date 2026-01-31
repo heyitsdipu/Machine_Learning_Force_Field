@@ -2,7 +2,7 @@
 
 This project is a work-in-progress, notebook-first implementation of a classic workflow for building a **machine-learning force field / potential energy surface** for a small molecular system: **alanine dipeptide in implicit solvent**.
 
-The notebook adapts an existing tutorial as a reference.
+The notebook adapts an existing tutorial as a reference. However, significant part has been changed, specially for better understanding I put lots of comments. If required, I explained some topics, the physics and math behind any concept. 
 
 ---
 
